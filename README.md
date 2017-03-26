@@ -13,7 +13,8 @@ Game Screenshot
 
 兩種移動方式撞到牆壁的狀況
 ================
-<img src="https://github.com/Yan-Jun/Unity_Move_Learn_1/blob/master/througe.jpg" height="300" width="400">  <img src="https://github.com/Yan-Jun/Unity_Move_Learn_1/blob/master/return.jpg" height="300" width="400">
+<img src="https://github.com/Yan-Jun/Unity_Move_Learn_1/blob/master/through.jpg" height="300" width="400">  
+<img src="https://github.com/Yan-Jun/Unity_Move_Learn_1/blob/master/return.jpg" height="300" width="400">
 
 
 玩家腳本控制移動模式
